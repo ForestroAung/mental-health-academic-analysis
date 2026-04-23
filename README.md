@@ -47,6 +47,17 @@ Patterns in the data suggest that emotional and psychological well-being should 
 Data visualization helps reveal trends that may not be obvious from raw data alone
 
 
+## Visualizations
+
+### Gender Distribution
+![Gender Distribution](gender_distribution.png)
+
+### Mental Health by Gender
+![Mental Health by Gender](mental_health_gender.png)
+
+### CGPA vs Mental Health Score
+![CGPA vs Mental Health](cgpa_vs_mental_health.png)
+
 ## Why This Project Matters
 
 Student mental health is an important topic in education. This project shows how data analysis can be used to better understand student challenges and support evidence-based decision-making in academic environments.
