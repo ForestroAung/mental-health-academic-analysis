@@ -50,10 +50,10 @@ Data visualization helps reveal trends that may not be obvious from raw data alo
 ## Visualizations
 
 ### Gender Distribution
-![Gender Distribution](gender_distribution.png)
+![Gender Distribution](gender-distribution.png)
 
 ### Mental Health by Gender
-![Mental Health by Gender](mental_health_gender.png)
+![Mental Health by Gender](prevalaence of Mental Health Issues by Gender.png)
 
 ### CGPA vs Mental Health Score
 ![CGPA vs Mental Health](cgpa_vs_mental_health.png)
