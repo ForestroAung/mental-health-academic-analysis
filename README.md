@@ -55,7 +55,7 @@ Data visualization helps reveal trends that may not be obvious from raw data alo
 ![Gender Distribution](gender-distribution.png)
 
 ### Mental Health by Gender
-- Female students show higher prevalence of depression compared to male students.
+- Female students show higher depression rates, while anxiety is slightly higher among male students.
 - Male students exhibit slightly higher levels of anxiety.
 - Panic attack rates appear relatively similar between genders.
 - These differences suggest that mental health patterns may vary by gender.
@@ -79,6 +79,14 @@ Data visualization helps reveal trends that may not be obvious from raw data alo
 - Anxiety appears to be the most prevalent mental health issue among students.
 - Depression and panic attacks are also significant but slightly lower in comparison.
 - This highlights the importance of addressing anxiety-related challenges in student populations.
+
+- The large number of course categories makes visualization dense, which may affect readability of insights.
+  
+  ## Limitations
+
+- The dataset is imbalanced in terms of gender distribution.
+- Some categories (e.g., courses) may have small sample sizes.
+- Mental health scores may not capture the full complexity of student well-being.
 
 ## Why This Project Matters
 
