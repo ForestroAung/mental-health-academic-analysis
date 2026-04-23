@@ -50,13 +50,35 @@ Data visualization helps reveal trends that may not be obvious from raw data alo
 ## Visualizations
 
 ### Gender Distribution
+- The dataset is highly imbalanced, with approximately 75% female and 25% male students.
+- This imbalance may influence the overall analysis and should be considered when interpreting results.
 ![Gender Distribution](gender-distribution.png)
 
 ### Mental Health by Gender
-![Mental Health by Gender](prevalaence of Mental Health Issues by Gender.png)
+- Female students show higher prevalence of depression compared to male students.
+- Male students exhibit slightly higher levels of anxiety.
+- Panic attack rates appear relatively similar between genders.
+- These differences suggest that mental health patterns may vary by gender.
+
+![Mental Health by Gender](mental_health_gender.png)
+
+### Mental Health by Course
+- Certain courses show higher prevalence of mental health issues compared to others.
+- This may indicate that academic pressure or course difficulty varies across disciplines.
+- However, some courses have extreme values (close to 100%), which may suggest small sample sizes or data imbalance.
+
+![Mental Health by Gender](mental_health_course.png)
 
 ### CGPA vs Mental Health Score
+- There is no strong linear relationship between CGPA and mental health score.
+- Students with both high and low CGPA appear across different mental health levels.
+- This suggests that academic performance alone may not fully explain mental health conditions.
 ![CGPA vs Mental Health](cgpa_vs_mental_health.png)
+
+### Overall Mental Health Trends
+- Anxiety appears to be the most prevalent mental health issue among students.
+- Depression and panic attacks are also significant but slightly lower in comparison.
+- This highlights the importance of addressing anxiety-related challenges in student populations.
 
 ## Why This Project Matters
 
